@@ -9,8 +9,8 @@ Setup for this Project
 
 
 Team Members of Team B.O.B.
--	Caleb Rains		Product Owner
--	Michael Ng		Scrum Master
+-	Caleb Rains	Product Owner
+-	Michael Ng	Scrum Master
 -	Charles Kinser	Developer
 -	Jacob Klucher	Developer
 -	Steven Errett	Developer
